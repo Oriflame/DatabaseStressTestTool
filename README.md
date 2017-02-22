@@ -1,3 +1,4 @@
+![logo](/resources/logo/logo_100x100.png)
 # DatabaseStressTestTool
 Database Stress Test Tool to test database connection etc limits
 
